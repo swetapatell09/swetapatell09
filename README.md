@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Sweta Patel! <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/21bc3dbe-25b4-4101-a39b-94e722cd707c">
+# 👋 Hi, I'm Sweta Patel! <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/cf9f33d6-4a07-4b59-a3e2-b17700d55fbc">
 
 ### 🌍 About Me
 I'm a passionate Flutter developer from India, with a focus on creating innovative and user-friendly mobile applications. My journey in coding is driven by a love for solving complex problems and building tools that make life easier.
@@ -37,5 +37,6 @@ Here are some of my top projects that showcase my work:
 
 ### 📫 How to reach me
 - **LinkedIn:** [Sweta Patel](https://www.linkedin.com/in/sweta-patel-a075a7311)
+
 
 *This README is regularly updated with new projects and information. Stay tuned for more exciting updates and contributions!*
